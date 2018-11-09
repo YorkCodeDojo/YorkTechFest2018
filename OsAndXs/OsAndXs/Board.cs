@@ -12,7 +12,8 @@
         InProgress = 0,
         Draw = 1,
         WinForX = 2,
-        WinForO = 3
+        WinForO = 3,
+        Invalid = 4
     }
 
     public class Board
